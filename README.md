@@ -1,7 +1,7 @@
 # Hey There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <br> It's Avadhoot Here !! 
 
 Basically I Am Student 👨‍💻, <br>
-Just A Normal Student 🤷‍♂️ Interested a Bit.<br>
+Just A Normal Student 🤷‍♂️ Interested a bit.<br>
 Just Trying to Learn Things 🔭.<br>
 Curently Pursuing  Graduation 🌱.
 
@@ -13,6 +13,7 @@ Curently Pursuing  Graduation 🌱.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad ++](https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=notepadplusplus)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 # Hobbies:
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtube.com)
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-00A8E1.svg?style=for-the-badge&logo=amazon-prime&logoColor=white)
